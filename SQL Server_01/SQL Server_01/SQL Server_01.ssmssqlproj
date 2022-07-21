@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server_01">
+  <Items>
+    <LogicalFolder Name="連線" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="ASUS-LAPTOP\SQLEXPRESS:ASUS-LAPTOP\gosty">
+          <Created>2021-05-16T14:35:06.059028+08:00</Created>
+          <Type>SQL</Type>
+          <Server>ASUS-LAPTOP\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows 驗證</Authentication>
+          <InitialDB>master</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - 查詢</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="ASUS-LAPTOP\SQLEXPRESS:r6">
+          <Created>2021-05-17T02:13:33.9035012+08:00</Created>
+          <Type>SQL</Type>
+          <Server>ASUS-LAPTOP\SQLEXPRESS</Server>
+          <UserName>r6</UserName>
+          <Authentication>SQL</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - 查詢</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="查詢" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="R6_char_insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ASUS-LAPTOP\SQLEXPRESS:False:r6</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ASUS-LAPTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>r6</AssociatedConnUserName>
+          <FullPath>R6_char_insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="R6_intro_insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ASUS-LAPTOP\SQLEXPRESS:False:r6</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ASUS-LAPTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName>r6</AssociatedConnUserName>
+          <FullPath>R6_intro_insert.sql</FullPath>
+        </FileNode>
+        <FileNode Name="R6_sql_create.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:ASUS-LAPTOP\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>ASUS-LAPTOP\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>R6_sql_create.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="其他" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
