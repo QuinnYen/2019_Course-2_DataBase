@@ -1,7 +1,8 @@
 # 虹彩六號-幹員圖鑑
 
 **[ 此專案建立於2020年並執行完成，之後便無任何維護計畫 ]**  
-這是一個基於虹彩六號（Rainbow Six Siege）遊戲幹員資訊的資料庫系統專案。
+這是一個基於虹彩六號（Rainbow Six Siege）遊戲幹員資訊的資料庫系統專案。  
+![imge](https://github.com/QuinnYen/2019_Course-2_DataBase/blob/'main'/2019_Course-2_DataBase.png)
 
 ## 專案簡介
 
